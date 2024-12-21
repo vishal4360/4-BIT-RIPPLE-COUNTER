@@ -40,7 +40,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **PROGRAM :**
 ```
-module ripple(
+module expt12(
    input wire clk,  // Clock input
    output reg [3:0] count // 4-bit counter output
  );
